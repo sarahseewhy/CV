@@ -20,13 +20,15 @@ Text
 
 #### Skills
 
-| Title															| Title																	| Title												| Title																			 |
-| --------------------------------- | ------------------------------------- | --------------------------- | ------------------------------------------ |
-| Test Driven Development           | Object oriented principles & design   | Pair programming            | Unit testing (RSpec & Jasmine)             | 
-| Integration testing (Capybara)    | Ruby 2                                | HTML 5 & ERB                | Ruby on Rails 4-4.1                        |
-| Websockets CSS3 & Sass            | Bootstrap                             | JavaScript, jQuery & Ajax   | FactoryGirl                                |
-| Postgres SQL                      | DataMapper                            | Version control with GitHub | User authentication with Devise & Omniauth | 
-| Integration of APIs: Twilio, Stripe, Paperclip, Mailgun | Deployment to Heroku | Agile values, principles & practices| One more |
+| Languages	& Data     			| Testing			| Practices	& Design						       | Web 																			               |
+| ------------------------- | ----------- | ------------------------------------ | ------------------------------------------------------- |
+| Ruby 2                    | Rspec 			| Object oriented principles & design  | Websockets                                              |
+| Ruby on Rails 4-4.1 			| Jasmine		  | Test Driven Development              | Version control with GitHub                             |
+| JavaScript, jQuery & Ajax | FactoryGirl | Pair programming                     | User authentication with Devise & Omniauth              |
+| CSS3 & Sass 							| Capybara    | Agile values, principles & practices | Deployment to Heroku                                    |
+| HTML5 & ERB               |							| MVC                                  | Bootstrap																	             |
+| Postgres SQL							|							|																			 | Integration of APIs: Twilio, Stripe, Paperclip, Mailgun |
+
 
 Experience
 ----------
