@@ -4,5 +4,5 @@ Junior developer always curious to see why things work. Tech historian by traini
 
 ## Code Portfolio
 
-| [Slate] | [Rock Paper Scissors] | [Boris Bikes] |
+| [Slate](https://github.com/slateapp/slate) | [Rock Paper Scissors](https://github.com/sarahseewhy/RockPaperScissors) | [Airport](https://github.com/sarahseewhy/airport) |
 |---|---|---|
