@@ -19,6 +19,7 @@ Text
 * Text
 
 #### Skills
+| --------------------------------- | ------------------------------------- | --------------------------- | ------------------------------------------ |
 | Test Driven Development           | Object oriented principles & design   | Pair programming            | Unit testing (RSpec & Jasmine)             | 
 | Integration testing (Capybara)    | Ruby 2                                | HTML 5 & ERB                | Ruby on Rails 4-4.1                        |
 | Websockets CSS3 & Sass            | Bootstrap                             | JavaScript, jQuery & Ajax   | FactoryGirl                                |
