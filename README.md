@@ -13,31 +13,34 @@ Web Development
 
 Experimented with HTML and CSS at university while leading a student magazing from print to online media. I joined Makers Academy to learn software development and [...]. 
 
-#### Makers Academy (Feb 14 - May 14)
+### Makers Academy (Feb 14 - May 14)
 * A highly selective, 12 week intensive course that focuses on full stack web development grounded in Ruby. 
 * Emphasises test-driven, object-oriented, software design and development.
 * Uses agile methodolgy, pair programming, and team projects to teach industry best practices.
 
-#### Skills
+### Skills
 
+Languages & Data: Ruby 2, Ruby on Rails, JavaScript, jQuery, Ajax, CSS3 & Sass, HTML5 & ERB
+Testing: Rspec, Jasmine, Capybara, Factory Girl
+Web: Websockets, Version control with GitHub, User authentication (Devise, Omniauth), Heroku, Bootstrap, API integration (Twilio, Stripe, Paperclip) 
 
 
 Experience
 ----------
 
-#### Broadgate Mainland, London
+### Broadgate Mainland, London
 **Account Assistant, Jan - Nov 2013**
 - Text
 - Text
 - Text
 
-#### Couth Buzzard, Seattle
+### Couth Buzzard, Seattle
 **Barista and Sales, May - Sep 2010**
 - Text.
 - Text.
 - Text.
 
-#### Amity, Hiroshima
+### Amity, Hiroshima
 ** Teacher, Jun 2009 - May 2010**
 - Text.
 - Text.
@@ -51,7 +54,7 @@ Academic
 | Oct 10 - Jun 11   | University of Oxford              | MA (Dist.) Gender Studies & History   |
 | Aug 04 - May 08   | Scipps College                    | BA (Hons.) History
 
-#### Conferences & Awards
+### Conferences & Awards
 - Presented paper at the British Society for the History of Science postgraduate conference, Jan 2013.
 - Presented paper at the Voluntary Action Historical Society postgraduate conference, Feb 2012.
 - Presented Scripps Senior Thesis Award for excellence in historical writing and research.
@@ -59,17 +62,17 @@ Academic
 
 Volunteer/Social Activism
 -------------------------
-#### New Unity, London
+### New Unity, London
 **Web Content Developer, Nov 2013 - Jan 2014**
 - Text
 - Text
 
-#### Women in History, Manchester
+### Women in History, Manchester
 **Co-Founder, Jan - June 2012**
 - Text
 - Text
 
-#### Campaign for Racial Equality and Awarenes, Oxford
+### Campaign for Racial Equality and Awarenes, Oxford
 **Events Organizer, Feb - May 2011**
 - Text
 - Text
