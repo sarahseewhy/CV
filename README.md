@@ -1,6 +1,6 @@
 # Sarah C Young
 
-Junior developer always curious to see how and why things work. Tech historian by training, developer by trade, cheerful by nature.
+Junior developer always curious to see how and why things work. Historian by training, developer by choice, cheerful by nature.
 
 ## Code Portfolio
 
@@ -11,23 +11,15 @@ Junior developer always curious to see how and why things work. Tech historian b
 Web Development
 ---------------
 
-Text
+Experimented with HTML and CSS at university while leading a student magazing from print to online media. I joined Makers Academy to learn software development and [...]. 
 
 #### Makers Academy (Feb 14 - May 14)
-* Text
-* Text
-* Text
+* A highly selective, 12 week intensive course that focuses on full stack web development grounded in Ruby. 
+* Emphasises test-driven, object-oriented, software design and development.
+* Uses agile methodolgy, pair programming, and team projects to teach industry best practices.
 
 #### Skills
 
-| Languages	& Data     			| Testing			| Practices	& Design						       | Web 																			               |
-| ------------------------- | ----------- | ------------------------------------ | ------------------------------------------------------- |
-| Ruby 2                    | Rspec 			| Object oriented principles & design  | Websockets                                              |
-| Ruby on Rails 4-4.1 			| Jasmine		  | Test Driven Development              | Version control with GitHub                             |
-| JavaScript, jQuery & Ajax | FactoryGirl | Pair programming                     | User authentication with Devise & Omniauth              |
-| CSS3 & Sass 							| Capybara    | Agile values, principles & practices | Deployment to Heroku                                    |
-| HTML5 & ERB               |							| MVC                                  | Bootstrap																	             |
-| Postgres SQL							|							|																			 | Integration of APIs: Twilio, Stripe, Paperclip, Mailgun |
 
 
 Experience
