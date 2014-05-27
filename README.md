@@ -5,3 +5,4 @@ Junior developer always curious to see why things work. Tech historian by traini
 ## Code Portfolio
 
 | [Slate] | [Rock Paper Scissors] | [Boris Bikes] |
+|---|---|---|
