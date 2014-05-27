@@ -19,17 +19,16 @@ Text
 *
 
 ### Skills
-|* Test Driven Development|
-|* Object oriented principles and design|
-|* Pair programming|
-|* Unit testing with RSpec and Jasmine|
-|* Integration testing with Capybara|
-|* Ruby 2|
-|* HTML 5 & ERB|
-|* Ruby on Rails 4-4.1|
-|* Websockets|
-|* CSS3 and Sass|
-
+* Test Driven Development
+* Object oriented principles and design
+* Pair programming
+* Unit testing with RSpec and Jasmine
+* Integration testing with Capybara
+* Ruby 2
+* HTML 5 & ERB
+* Ruby on Rails 4-4.1
+* Websockets
+* CSS3 and Sass
 * Bootstrap
 * JavaScript, jQuery and Ajax
 * FactoryGirl
@@ -39,4 +38,4 @@ Text
 * User authentication with Devise and Omniauth
 * Integration of APIs (e.g., Twilio, Stripe, Paperclip, Mailgun)
 * Deployment to Heroku
-* Agile values, principles and practices|
+* Agile values, principles and practices
