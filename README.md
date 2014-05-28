@@ -2,14 +2,16 @@
 
 Junior developer always curious to see how and why things work. Historian by training, developer by choice, cheerful by nature.
 
+Grounded in a fascination of what makes objects and organisations ‘tick’ I pursued a career as a historian of culture and technology. Feeling the need to work in the present I shifted careers to communications before choosing to delve into a field that intrigued and challenged me: software development.
+
 ### Code Portfolio
 | [Slate](https://github.com/slateapp/slate) | [Rock Paper Scissors](https://github.com/sarahseewhy/RockPaperScissors) | [Boris Bikes](https://github.com/sarahseewhy/boris-bike) |
 |---|---|---|
 | A Ruby on Rails web app that helps students communicate problem areas to teachers. It was a team-based final project at [@makersacademy](https://github.com/makersacademy).| A sinatra web app, utilising jQuery, that allows users to play the Big Bang Theory game [Rock Paper Scissors Lizard Spock](https://www.youtube.com/watch?v=iapcKVn7DdY). | An assignment to practice object oriented programming, object oriented design, and test driven development. |
 
-###Web Developer
+###Web Development
 ---------------
-I joined Makers Academy to learn software development and [...]. I worked with HTML and CSS at university while editor-in-chief of an online student magazine.
+As editor-in-chief of a student magazine at university I learned basic HTML and CSS to help lead the transition from print to online media.
 
 ####Makers Academy (Feb 14 - May 14)
 * A highly selective, 12 week intensive course that focuses on full stack web development grounded in Ruby. 
@@ -54,14 +56,14 @@ I joined Makers Academy to learn software development and [...]. I worked with H
 
 ###Volunteering
 ---------------
-####New Unity Congregation, London
+#####New Unity Congregation, London
 **Web Content Developer, Nov 2013 - Jan 2014**
 - Worked with community leaders to develop online content and presence.
 
-####Women in History, University of Manchester
+#####Women in History, University of Manchester
 **Co-Founder, Jan - June 2012**
 - Co-founded a mentorship group that connected postgraduates with academic professionals.
 
-####Campaign for Racial Equality and Awarenes, University of Oxford
+#####Campaign for Racial Equality and Awarenes, University of Oxford
 **Volunteer, Feb - May 2011**
 - Helped organise events and projects to promote diversity and awareness.
