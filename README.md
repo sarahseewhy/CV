@@ -10,8 +10,7 @@ Junior developer always curious to see how and why things work. Historian by tra
 
 ### Web Development
 ---------------
-
-Experimented with HTML and CSS at university while leading a student magazing from print to online media. I joined Makers Academy to learn software development and [...]. 
+I joined Makers Academy to learn software development and [...]. Experimented with HTML and CSS at university while leading a student magazing from print to online media.
 
 #### Makers Academy (Feb 14 - May 14)
 * A highly selective, 12 week intensive course that focuses on full stack web development grounded in Ruby. 
@@ -20,9 +19,9 @@ Experimented with HTML and CSS at university while leading a student magazing fr
 
 #### Skills
 
-* *Languages & Data*: Ruby 2, Ruby on Rails, JavaScript, jQuery, Ajax, CSS3 & Sass, HTML5 & ERB, Postgres SQL, Datamapper
-* *Testing: Rspec*, Jasmine, Capybara, Factory Girl
-* *Web*: Websockets, Version control with GitHub, User authentication (Devise, Omniauth), Heroku, Bootstrap, API integration (Twilio, Stripe, Paperclip) 
+* __Languages & Data__: Ruby 2, Ruby on Rails, JavaScript, jQuery, Ajax, CSS3 & Sass, HTML5 & ERB, Postgres SQL, Datamapper
+* __Testing__: Rspec, Jasmine, Capybara, Factory Girl
+* __Web__: Websockets, Version control with GitHub, User authentication (Devise, Omniauth), Heroku, Bootstrap, API integration (Twilio, Stripe, Paperclip) 
 
 
 ### Experience
@@ -30,32 +29,34 @@ Experimented with HTML and CSS at university while leading a student magazing fr
 
 #### Broadgate Mainland, London
 **Account Assistant, Jan - Nov 2013**
-- Text
+- Analysed and produced finance policy and media trend reports, gaining insight into wealth management, investment banking, and financial regulation. Balanced multiple deadlines, wrote press releases, and prioritised research results.
+- Coordinated a research project on women in finance, collating academic and media studies, collaborating with colleagues on PR strategy and creating presentation materials.
 
-#### Couth Buzzard, Seattle
-**Barista and Sales, May - Sep 2010**
-- Text.
-
+#### Couth Buzzard Bookshop, Seattle
+**Barista and Sales Assistant, May - Sep 2010**
+- Managed café, organised and maintained supplies, and learned about the challenges of running a small business.
+- Recieved a commendation on [yelp.com](http://www.yelp.com/biz/couth-buzzard-books-espresso-buono-seattle?hrid=dT-iGObshU73djKTdC1uPw).
 
 #### Amity, Hiroshima
-** Teacher, Jun 2009 - May 2010**
-- Text.
+** Senior Teacher, Jun 2009 - May 2010**
+- Taught over 30 classes a week, created original lesson plans, and evaluated students’ performance.
+- Collaborated with teaching team to achieve company’s financial and educational goals. Recruited approximately three new students per month for six months, earning a company award for exceeding recruitment targets.
 
 Academic
 --------
-|       Dates       |        Institution                |            Subjects                   |
-| :---------------: | :-------------------------------: | :-----------------------------------: | 
-| Oct 11 - Oct 12   | University of Manchester          | MA (Dist.) Modern British History     | 
-| Oct 10 - Jun 11   | University of Oxford              | MA (Dist.) Gender Studies & History   |
-| Aug 04 - May 08   | Scipps College                    | BA (Hons.) History
+|       Dates       |        Institution         |            Subjects                   |
+| :---------------: | :------------------------: | :-----------------------------------: | 
+| Oct 11 - Oct 12   | University of Manchester   | MA (Dist.) Modern British History     | 
+| Oct 10 - Jun 11   | University of Oxford       | MA (Dist.) Gender Studies & History   |
+| Aug 04 - May 08   | Scipps College             | BA (Hons.) History
 
 ##### Conferences & Awards
 - Presented paper at the British Society for the History of Science postgraduate conference, Jan 2013.
 - Presented paper at the Voluntary Action Historical Society postgraduate conference, Feb 2012.
-- Presented Scripps Senior Thesis Award for excellence in historical writing and research.
+- Recieved Scripps Senior Thesis Award for excellence in historical writing and research.
 
 
-### Volunteer/Social Activism
+### Social Activism
 -------------------------
 #### New Unity, London
 **Web Content Developer, Nov 2013 - Jan 2014**
