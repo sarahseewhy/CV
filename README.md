@@ -57,13 +57,13 @@ I joined Makers Academy to develop the skills and practices I would need on the 
 ###Volunteering
 ---------------
 #####New Unity Congregation, London
-**Web Content Developer, Nov 2013 - Jan 2014**
+Web Content Developer, Nov 2013 - Jan 2014
 - Worked with community leaders to develop online content and presence.
 
 #####Women in History, University of Manchester
-**Co-Founder, Jan - June 2012**
+Co-Founder, Jan - June 2012
 - Co-founded a mentorship group that connected postgraduates with academic professionals.
 
 #####Campaign for Racial Equality and Awarenes, University of Oxford
-**Volunteer, Feb - May 2011**
+Volunteer, Feb - May 2011
 - Helped organise events and projects to promote diversity and awareness.
