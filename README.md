@@ -9,7 +9,7 @@ Junior developer always curious to see how and why things work. Historian by tra
 
 ###Web Development
 ---------------
-Grounded in a fascination of what makes objects and organisations ‘tick’ I pursued a career as a culture and technology historian. Seeking more collaborative work I shifted careers to communications before choosing to delve into a field that intrigued and challenged me: software development. 
+Grounded in a fascination of what makes objects and organisations ‘tick’ I pursued a career as a historian of culture and technology. Seeking more collaborative work I shifted careers to communications before choosing to delve into a field that intrigued and challenged me: software development. 
 
 I joined Makers Academy to develop the skills and practices I would need on the journey of becoming a developer. 
 
