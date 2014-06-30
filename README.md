@@ -46,7 +46,7 @@ I joined Makers Academy to develop the skills and practices I would need on the 
 | :---------------: | :------------------------: | :-----------------------------------: | 
 | Oct 11 - Oct 12   | University of Manchester   | MA (Dist.) Modern British History     | 
 | Oct 10 - Jun 11   | University of Oxford       | MA (Dist.) Gender Studies & History   |
-| Aug 04 - May 08   | Scipps College             | BA (Hons.) History
+| Aug 04 - May 08   | Scripps College             | BA (Hons.) History
 
 #####Conferences & Awards
 - Presented paper at the British Society for the History of Science postgraduate conference, Jan 2013.
