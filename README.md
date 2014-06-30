@@ -16,7 +16,7 @@ I joined Makers Academy to develop the skills and practices I would need on the 
 ####Makers Academy (Feb 14 - May 14)
 * A highly selective, 12 week intensive course that focuses on full stack web development grounded in Ruby. 
 * Emphasises test-driven, object-oriented, software design and development.
-* Uses agile methodolgy, pair programming, and team projects to teach industry best practices.
+* Uses agile methodology, pair programming, and team projects to teach industry best practices.
 
 ####Skills
 * __Languages & Databases__: Ruby 2, Ruby on Rails, JavaScript, jQuery, Ajax, CSS3 & Sass, HTML5 & ERB, Postgres SQL, Datamapper
@@ -34,7 +34,7 @@ I joined Makers Academy to develop the skills and practices I would need on the 
 
 ####[Couth Buzzard Espresso Buono, Seattle](http://www.buonobuzzard.com/)
 **Barista and Sales Assistant, May - Sep 2010**
-- Managed café, organised supplies, assisted with daily finances, and learned about the challenges of running a small business. Recieved a commendation on [yelp.com](http://www.yelp.com/biz/couth-buzzard-books-espresso-buono-seattle?hrid=dT-iGObshU73djKTdC1uPw).
+- Managed café, organised supplies, assisted with daily finances, and learned about the challenges of running a small business. Received a commendation on [yelp.com](http://www.yelp.com/biz/couth-buzzard-books-espresso-buono-seattle?hrid=dT-iGObshU73djKTdC1uPw).
 
 ####[Amity, Hiroshima](http://www.amityteachers.com/)
 **Teacher, Jun 2009 - May 2010**
@@ -51,7 +51,7 @@ I joined Makers Academy to develop the skills and practices I would need on the 
 #####Conferences & Awards
 - Presented paper at the British Society for the History of Science postgraduate conference, Jan 2013.
 - Presented paper at the Voluntary Action Historical Society postgraduate conference, Feb 2012.
-- Recieved Scripps Senior Thesis Award for excellence in historical writing and research.
+- Received Scripps Senior Thesis Award for excellence in historical writing and research.
 
 
 ###Volunteering
