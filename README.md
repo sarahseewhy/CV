@@ -9,17 +9,23 @@ Junior developer always curious to see how and why things work. Historian by tra
 
 ###Web Development
 ---------------
-Grounded in a fascination of what makes objects and organisations ‘tick’ I pursued a career as a historian of culture and technology. Seeking more collaborative work I shifted careers to communications before choosing to delve into a field that intrigued and challenged me: software development. 
+Grounded in a fascination with what makes objects and organisations ‘tick’ I pursued a career as a historian of culture and technology. Seeking more collaborative work I shifted careers to communications before choosing to delve into a field that intrigued and challenged me: software development. 
 
 I joined Makers Academy to develop the skills and practices I would need on the journey of becoming a developer. 
 
-####Makers Academy (Feb 14 - May 14)
+####[Decoded, London](http://www.decoded.co/)
+**Traineeship, Jun 14 - Sep 14**
+* Collaborated with close-knit development team on test-driven internal and client-facing applications. 
+* Developed training structure for junior developers and mentored development team interns.
+
+####[Makers Academy, London](http://www.makersacademy.com) 
+**Student, Feb 14 - May 14**
 * A highly selective, 12 week intensive course that focuses on full stack web development grounded in Ruby. 
 * Emphasises test-driven, object-oriented, software design and development.
 * Uses agile methodolgy, pair programming, and team projects to teach industry best practices.
 
 ####Skills
-* __Languages & Databases__: Ruby 2, Ruby on Rails, JavaScript, jQuery, Ajax, CSS3 & Sass, HTML5 & ERB, Postgres SQL, Datamapper
+* __Languages & Databases__: Ruby 2, Ruby on Rails, JavaScript, LiveScript, BackboneJS, NodeJS, AngularJS, jQuery, Ajax, CSS3 & Sass, HTML5 & ERB, Postgres SQL, Datamapper
 * __Testing__: Rspec, Jasmine, Capybara, Factory Girl
 * __Web__: Websockets, Version control with GitHub, User authentication (Devise, Omniauth), Heroku, Bootstrap, API integration (Twilio, Stripe, Paperclip) 
 
@@ -28,17 +34,14 @@ I joined Makers Academy to develop the skills and practices I would need on the 
 
 ###Experience
 -------------
+
 ####[Broadgate Mainland PR, London](http://www.broadgatemainland.com/)
 **Account Assistant, Jan - Nov 2013**
-- Analysed and produced finance policy and media trend reports, gaining insight into wealth management, investment banking, and financial regulation. Coordinated a research project on gender in finance.
-
-####[Couth Buzzard Espresso Buono, Seattle](http://www.buonobuzzard.com/)
-**Barista and Sales Assistant, May - Sep 2010**
-- Managed café, organised supplies, assisted with daily finances, and learned about the challenges of running a small business. Recieved a commendation on [yelp.com](http://www.yelp.com/biz/couth-buzzard-books-espresso-buono-seattle?hrid=dT-iGObshU73djKTdC1uPw).
+* Analysed and produced finance policy and media trend reports, gaining insight into wealth management, investment banking, and financial regulation. Coordinated a research project on gender in finance.
 
 ####[Amity, Hiroshima](http://www.amityteachers.com/)
 **Teacher, Jun 2009 - May 2010**
-- Taught over 30 classes a week, created original lesson plans, and evaluated students’ performance. Collaborated with teaching team to achieve company’s financial and educational goals.
+* Taught over 30 classes a week, created original lesson plans, and evaluated students’ performance. Collaborated with teaching team to achieve company’s financial and educational goals.
 
 ###Education
 ------------
@@ -64,6 +67,6 @@ I joined Makers Academy to develop the skills and practices I would need on the 
 **Co-Founder, Jan - June 2012**
 - Co-founded a mentorship group that connected postgraduates with academic professionals.
 
-####Campaign for Racial Equality and Awarenes, University of Oxford
+####Campaign for Racial Equality and Awareness, University of Oxford
 **Volunteer, Feb - May 2011**
 - Helped organise events and projects to promote diversity and awareness.
