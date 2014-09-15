@@ -25,7 +25,7 @@ I joined Makers Academy to develop the skills and practices I would need on the 
 * Uses agile methodology, pair programming, and team projects to teach industry best practices.
 
 ####Skills
-* __Languages & Databases__: Ruby 2, Ruby on Rails, JavaScript, LiveScript, BackboneJS, NodeJS, AngularJS, jQuery, Ajax, CSS3 & Sass, HTML5 & ERB, Postgres SQL, Datamapper
+* __Languages & Databases__: Ruby 2, Ruby on Rails, JavaScript, LiveScript, BackboneJS, NodeJS, AngularJS, Grunt, jQuery, Ajax, CSS3 & Sass, HTML5 & ERB, Postgres SQL, Datamapper
 * __Testing__: Rspec, Jasmine, Capybara, Factory Girl
 * __Web__: Websockets, Version control with GitHub, User authentication (Devise, Omniauth), Heroku, Bootstrap, API integration (Twilio, Stripe, Paperclip) 
 
