@@ -22,7 +22,7 @@ I joined Makers Academy to develop the skills and practices I would need on the 
 **Student, Feb 14 - May 14**
 * A highly selective, 12 week intensive course that focuses on full stack web development grounded in Ruby. 
 * Emphasises test-driven, object-oriented, software design and development.
-* Uses agile methodolgy, pair programming, and team projects to teach industry best practices.
+* Uses agile methodology, pair programming, and team projects to teach industry best practices.
 
 ####Skills
 * __Languages & Databases__: Ruby 2, Ruby on Rails, JavaScript, LiveScript, BackboneJS, NodeJS, AngularJS, jQuery, Ajax, CSS3 & Sass, HTML5 & ERB, Postgres SQL, Datamapper
@@ -49,12 +49,12 @@ I joined Makers Academy to develop the skills and practices I would need on the 
 | :---------------: | :------------------------: | :-----------------------------------: | 
 | Oct 11 - Oct 12   | University of Manchester   | MA (Dist.) Modern British History     | 
 | Oct 10 - Jun 11   | University of Oxford       | MA (Dist.) Gender Studies & History   |
-| Aug 04 - May 08   | Scipps College             | BA (Hons.) History
+| Aug 04 - May 08   | Scripps College             | BA (Hons.) History
 
 #####Conferences & Awards
 - Presented paper at the British Society for the History of Science postgraduate conference, Jan 2013.
 - Presented paper at the Voluntary Action Historical Society postgraduate conference, Feb 2012.
-- Recieved Scripps Senior Thesis Award for excellence in historical writing and research.
+- Received Scripps Senior Thesis Award for excellence in historical writing and research.
 
 
 ###Volunteering
