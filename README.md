@@ -14,7 +14,8 @@ Grounded in a fascination with what makes objects and organisations ‘tick’ I
 I joined Makers Academy to develop the skills and practices I would need on the journey of becoming a developer.
 
 ####[Deloitte Digital, London](http://www.deloittedigital.com/eu/)
-** Analyst Developer, Nov 3 - Present**
+**Analyst Developer, Nov 3 - Present**
+* Joined a large development team as a backend developer focusing on Java. Contributed to product deliverables utilising industry best practices.
 
 ####[Decoded, London](http://www.decoded.co/)
 **Traineeship, Jun 14 - Sep 14**
