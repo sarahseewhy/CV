@@ -2,6 +2,8 @@
 
 Developer always curious to see how and why things work. Historian by training, developer by choice, cheerful by nature.
 
+Grounded in a fascination with what makes objects and organisations ‘tick’ I followed a career as a historian of culture and computer science. Seeking more collaborative work I shifted careers to pursue a field that intrigued and challenged me: software development.
+
 I thrive in collaborative, team-based environments working with colleagues who share my curiosity for all things code, my enthusiasm for best practices, and my passion for community building.
 
 ###Code Portfolio
@@ -11,10 +13,10 @@ I thrive in collaborative, team-based environments working with colleagues who s
 
 ### Development
 ---------------
-Grounded in a fascination with what makes objects and organisations ‘tick’ I followed a career as a historian of culture and computer science. Seeking more collaborative work I shifted careers to pursue a field that intrigued and challenged me: software development.
 
 ####[Deloitte Digital, London](http://www.deloittedigital.com/eu/)
 **Developer, Nov 3 - Present**
+
 _Technical Building_
 * Built RESTful microservices, contributed to the implementation of Rundeck and Ansible scripts, and championed best practices on project. Discovered and applied a more robust way of testing project code by delving into Mockito, JUnit, and TDD strategies.
 * Pursued ownership of project deliverable from design to implementation, collaborating with senior developers and client Solution Design team.
