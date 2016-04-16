@@ -45,7 +45,7 @@ _Community Building_
 * Uses agile methodology, pair programming, and team projects to teach industry best practices.
 
 #### Skills
-* __Languages, Frameworks__: Ruby 2, Ruby on Rails, JavaScript, LiveScript, BackboneJS, NodeJS, AngularJS, jQuery, Ajax, CSS3 & Sass, HTML5 & ERB, Java, Groovy, Spring, Vertx, [learning Scala]
+* __Languages, Frameworks__: Ruby 2, Ruby on Rails, JavaScript, LiveScript, BackboneJS, NodeJS, AngularJS, jQuery, Ajax, CSS3 & Sass, HTML5 & ERB, Java 8, Groovy, Spring, Vertx, learning Scala
 * __Build Tools__: Grunt, Rundeck, Jenkins, Ansible
 * __Database__: Postgres SQL, Datamapper, MongoDb, Elasticsearch,
 * __Testing__: Rspec, Jasmine, Capybara, Factory Girl, JUnit, Mockito, ScalaTest
