@@ -21,7 +21,7 @@ _Technical Building_
 * Built RESTful microservices, contributed to the implementation of Rundeck and Ansible scripts, and championed best practices on project. Discovered and applied a more robust way of testing project code by delving into Mockito, JUnit, and TDD strategies.
 * Pursued ownership of project deliverable from design to implementation, collaborating with senior developers and client Solution Design team.
 * Contributed to the development of RESTful web microservices on a large Java enterprise project which implemented ELK stack.
-* Utilised Agile practices (Scrum and Kanban) as well as up-skilling colleagues to improve use of TDD methods and pair-programming.
+* Utilised Agile practices (Scrum and Kanban) as well as up-skilling colleagues to improve use of TDD methods and pair-programming through regular lunch and learns and one-to-one coaching.
 
 _Community Building_
 * Mentor incoming junior developers and encourage the use of best practices tools.
