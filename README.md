@@ -6,7 +6,7 @@ Grounded in a fascination with what makes objects and organisations ‘tick’ I
 
 I thrive in collaborative, team-based environments working with colleagues who share my curiosity for all things code, my enthusiasm for best practices, and my passion for community building.
 
-###Code Portfolio
+###Makers Portfolio
 | [Slate](https://github.com/slateapp/slate) | [Rock Paper Scissors](https://github.com/sarahseewhy/RockPaperScissors) | [Boris Bikes](https://github.com/sarahseewhy/boris-bike) |
 |---|---|---|
 | A Ruby on Rails web app that helps students communicate problem areas to teachers. It was a team-based final project at [@makersacademy](https://github.com/makersacademy).| A Javascript web app, utilising jQuery, that allows users to play the Big Bang Theory game [Rock Paper Scissors Lizard Spock](https://www.youtube.com/watch?v=iapcKVn7DdY). | An assignment to practice object oriented programming, object oriented design, and test driven development. |
