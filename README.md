@@ -2,11 +2,11 @@
 
 Developer always curious to see how and why things work. Historian by training, developer by choice, cheerful by nature.
 
-Grounded in a fascination with what makes objects and organisations ‘tick’ I followed a career as a historian of culture and computer science. Seeking more collaborative work I shifted careers to pursue a field that intrigued and challenged me: software development.
-
 I thrive in collaborative, team-based environments working with colleagues who share my curiosity for all things code, my enthusiasm for best practices, and my passion for community building.
 
-###Makers Portfolio
+Grounded in a fascination with what makes objects and organisations ‘tick’ I followed a career as a historian of culture and computer science. Seeking more collaborative work I shifted careers to pursue a field that intrigued and challenged me: software development.
+
+###Makers Academy Portfolio
 | [Slate](https://github.com/slateapp/slate) | [Rock Paper Scissors](https://github.com/sarahseewhy/RockPaperScissors) | [Boris Bikes](https://github.com/sarahseewhy/boris-bike) |
 |---|---|---|
 | A Ruby on Rails web app that helps students communicate problem areas to teachers. It was a team-based final project at [@makersacademy](https://github.com/makersacademy).| A Javascript web app, utilising jQuery, that allows users to play the Big Bang Theory game [Rock Paper Scissors Lizard Spock](https://www.youtube.com/watch?v=iapcKVn7DdY). | An assignment to practice object oriented programming, object oriented design, and test driven development. |
@@ -35,7 +35,7 @@ _Community Building_
 ####[Decoded, London](http://www.decoded.co/)
 **Traineeship, Jun 14 - Sep 14**
 * Collaborated with close-knit development team on test-driven internal and client-facing Javascript applications.
-* Built knowledge-sharing prototype tool using BackboneJS to help colleagues share relevant articles internally and with clients.
+* Built knowledge-sharing prototype tool using BackboneJS to help colleagues share relevant articles internally and externally.
 * Developed training structure for junior developers and mentored development team interns.
 
 ####[Makers Academy, London](http://www.makersacademy.com)
