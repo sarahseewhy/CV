@@ -52,7 +52,7 @@ _Community Building_
 * __Web__: Websockets, Version control with GitHub, User authentication (Devise, Omniauth), Heroku, Bootstrap, API integration (Twilio, Stripe, Paperclip)
 
 #### Community
-* Ladies Who Code, Stemettes, Women 2.0.
+* London Java Community, London Software Craftsmanship Community
 
 ### Education
 ------------
@@ -63,6 +63,6 @@ _Community Building_
 | Aug 04 - May 08   | Scripps College            | BA (Hons.) History                    |
 
 ##### Conferences & Awards
+- Volunteering at 2016 Devoxx conference.
 - Presented paper at the British Society for the History of Science postgraduate conference, Jan 2013.
 - Presented paper at the Voluntary Action Historical Society postgraduate conference, Feb 2012.
-- Received Scripps Senior Thesis Award for excellence in historical writing and research.
