@@ -49,11 +49,9 @@ _Community Building_
 * __Testing__: Rspec, Jasmine, Capybara, Factory Girl, JUnit, Mockito, ScalaTest
 * __Web__: Websockets, Version control with GitHub, User authentication (Devise, Omniauth), Heroku, Bootstrap, API integration (Twilio, Stripe, Paperclip)
 
-#### Media Contributions
+#### Media and Community Engagement
 * [@sarahseewhy](https://twitter.com/sarahseewhy)
 * [sarahseewhy blog](https://sarahseewhy.wordpress.com)
-
-#### Community
 * London Java Community, London Software Craftsmanship Community
 
 ### Education
