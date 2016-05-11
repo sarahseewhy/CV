@@ -50,8 +50,8 @@ _Community Building_
 * __Web__: Websockets, Version control with GitHub, User authentication (Devise, Omniauth), Heroku, Bootstrap, API integration (Twilio, Stripe, Paperclip)
 
 #### Media Contributions
-[@sarahseewhy](https://twitter.com/sarahseewhy)
-[sarahseewhy blog](https://sarahseewhy.wordpress.com)
+* [@sarahseewhy](https://twitter.com/sarahseewhy)
+* [sarahseewhy blog](https://sarahseewhy.wordpress.com)
 
 #### Community
 * London Java Community, London Software Craftsmanship Community
