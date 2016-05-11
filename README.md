@@ -15,7 +15,7 @@ Grounded in a fascination with what makes objects and organisations ‘tick’ I
 ---------------
 
 ####[Deloitte Digital, London](http://www.deloittedigital.com/eu/)
-**Developer, Nov 3 - Present**
+**Java Developer, Nov 3 - Present**
 
 _Technical Building_
 * Built RESTful microservices, contributed to the implementation of Rundeck and Ansible scripts, and advocated for best practices on project. Introduced and applied a more robust way of testing project code by delving into Mockito, JUnit, and TDD strategies.
@@ -40,12 +40,12 @@ _Community Building_
 
 ####[Makers Academy, London](http://www.makersacademy.com)
 **Student, Feb 14 - May 14**
-* A highly selective, 12 week intensive course that focuses on full stack web development grounded in Ruby.
+* A highly selective, 12 week intensive course that focuses on full stack web development grounded in Ruby and Javascript.
 * Emphasises test-driven, object-oriented, software design and development.
-* Uses agile methodology, pair programming, and team projects to teach industry best practices.
+* Uses Agile principles and methodology, TDD, pair programming, and team projects to teach industry best practices.
 
 #### Skills
-* __Languages, Frameworks__: Ruby 2, Ruby on Rails, JavaScript, LiveScript, BackboneJS, NodeJS, AngularJS, jQuery, Ajax, CSS3 & Sass, HTML5 & ERB, Java 8, Groovy, Spring, Vertx, learning Scala
+* __Languages, Frameworks__: Ruby 2, Ruby on Rails, Javascript, LiveScript, BackboneJS, NodeJS, AngularJS, jQuery, Ajax, CSS3 & Sass, HTML5 & ERB, Java 8, Groovy, Spring, Vertx, learning Scala
 * __Build Tools__: Grunt, Rundeck, Jenkins, Ansible
 * __Database__: Postgres SQL, Datamapper, MongoDb, Elasticsearch,
 * __Testing__: Rspec, Jasmine, Capybara, Factory Girl, JUnit, Mockito, ScalaTest
