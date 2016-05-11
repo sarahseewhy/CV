@@ -18,7 +18,7 @@ Grounded in a fascination with what makes objects and organisations ‘tick’ I
 **Developer, Nov 3 - Present**
 
 _Technical Building_
-* Built RESTful microservices, contributed to the implementation of Rundeck and Ansible scripts, and championed best practices on project. Discovered and applied a more robust way of testing project code by delving into Mockito, JUnit, and TDD strategies.
+* Built RESTful microservices, contributed to the implementation of Rundeck and Ansible scripts, and advocated for best practices on project. Introduced and applied a more robust way of testing project code by delving into Mockito, JUnit, and TDD strategies.
 * Pursued ownership of project deliverable from design to implementation, collaborating with senior developers and client Solution Design team.
 * Contributed to the development of RESTful web microservices on a large Java enterprise project which implemented ELK stack.
 * Utilised Agile practices (Scrum and Kanban) as well as upskilling colleagues to improve use of TDD methods and pair-programming through regular lunch and learns.
