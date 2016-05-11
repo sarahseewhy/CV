@@ -4,8 +4,6 @@ Developer always curious to see how and why things work. Historian by training, 
 
 I thrive in collaborative, team-based environments working with colleagues who share my curiosity for all things code, my enthusiasm for best practices, and my passion for community building.
 
-Grounded in a fascination with what makes objects and organisations ‘tick’ I followed a career as a historian of culture and computer science. Seeking more collaborative work I shifted careers to pursue a field that intrigued and challenged me: software development.
-
 ###Makers Academy Portfolio
 | [Slate](https://github.com/slateapp/slate) | [Rock Paper Scissors](https://github.com/sarahseewhy/RockPaperScissors) | [Boris Bikes](https://github.com/sarahseewhy/boris-bike) |
 |---|---|---|
@@ -45,11 +43,15 @@ _Community Building_
 * Uses Agile principles and methodology, TDD, pair programming, and team projects to teach industry best practices.
 
 #### Skills
-* __Languages, Frameworks__: Ruby 2, Ruby on Rails, Javascript, LiveScript, BackboneJS, NodeJS, AngularJS, jQuery, Ajax, CSS3 & Sass, HTML5 & ERB, Java 8, Groovy, Spring, Vertx, learning Scala
+* __Languages, Frameworks__: Ruby 2, Ruby on Rails, Javascript, LiveScript, BackboneJS, NodeJS, AngularJS, jQuery, Ajax, CSS3 & Sass, HTML5 & ERB, Java 8, XML/XSL/XSLT, Groovy, Spring, Apache ActiveMQ Vertx, learning Scala
 * __Build Tools__: Grunt, Rundeck, Jenkins, Ansible
-* __Database__: Postgres SQL, Datamapper, MongoDb, Elasticsearch,
+* __Database__: Postgres SQL, Datamapper, MongoDb, Elasticsearch
 * __Testing__: Rspec, Jasmine, Capybara, Factory Girl, JUnit, Mockito, ScalaTest
 * __Web__: Websockets, Version control with GitHub, User authentication (Devise, Omniauth), Heroku, Bootstrap, API integration (Twilio, Stripe, Paperclip)
+
+#### Media Contributions
+[@sarahseewhy](https://twitter.com/sarahseewhy)
+[sarahseewhy blog](https://sarahseewhy.wordpress.com)
 
 #### Community
 * London Java Community, London Software Craftsmanship Community
