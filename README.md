@@ -13,7 +13,7 @@ I thrive in collaborative, team-based environments working with colleagues who s
 ---------------
 
 ####[Deloitte Digital, London](http://www.deloittedigital.com/eu/)
-**Java Developer, Nov 3 - Present**
+**Java Developer, Nov 2014 - Present**
 
 _Technical Building_
 * Built RESTful microservices, contributed to the implementation of Rundeck and Ansible scripts, and advocated for best practices on project. Introduced and applied a more robust way of testing project code by delving into Mockito, JUnit, and TDD strategies.
@@ -31,13 +31,13 @@ _Community Building_
 
 
 ####[Decoded, London](http://www.decoded.co/)
-**Traineeship, Jun 14 - Sep 14**
+**Traineeship, Jun 2014 - Sep 2014**
 * Collaborated with close-knit development team on test-driven internal and client-facing Javascript applications.
 * Built knowledge-sharing prototype tool using BackboneJS to help colleagues share relevant articles internally and externally.
 * Developed training structure for junior developers and mentored development team interns.
 
 ####[Makers Academy, London](http://www.makersacademy.com)
-**Student, Feb 14 - May 14**
+**Student, Feb 2014 - May 2014**
 * A highly selective, 12 week intensive course that focuses on full stack web development grounded in Ruby and Javascript.
 * Emphasises test-driven, object-oriented, software design and development.
 * Uses Agile principles and methodology, TDD, pair programming, and team projects to teach industry best practices.
