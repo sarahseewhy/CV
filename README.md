@@ -1,68 +1,84 @@
-##Sarah C Young
+### Sarah C. Young
 
-Developer always curious to see how and why things work. Historian by training, developer by choice, cheerful by nature.
+Historian by training, developer by choice, curious by nature
 
-I thrive in collaborative, team-based environments working with colleagues who share my curiosity for all things code, my enthusiasm for best practices, and my passion for community building.
+_I thrive in collaborative environments working with colleagues who share my technical curiosity, interest in team building, and enthusiasm for software crafting._
 
-###Makers Academy Portfolio
-| [Slate](https://github.com/slateapp/slate) | [Rock Paper Scissors](https://github.com/sarahseewhy/RockPaperScissors) | [Boris Bikes](https://github.com/sarahseewhy/boris-bike) |
-|---|---|---|
-| A Ruby on Rails web app that helps students communicate problem areas to teachers. It was a team-based final project at [@makersacademy](https://github.com/makersacademy).| A Javascript web app, utilising jQuery, that allows users to play the Big Bang Theory game [Rock Paper Scissors Lizard Spock](https://www.youtube.com/watch?v=iapcKVn7DdY). | An assignment to practice object oriented programming, object oriented design, and test driven development. |
+-----------------------------------------------------------------------------------------------
 
-### Development
----------------
+### EXPERIENCE
+- **Infrastructure tools**: Linux (Redhat), Bash, Puppet and PDK, Hiera, Terraform, AWS, Packer, Nagios, Docker, ELK stack, Grafana, Graphite, Apache and Nginx configuration, networking (TCP/IP). 
+- **Reliability Engineering**: Log aggregation, SLx, metric collection, error budgeting. 
+- **Continuous Delivery**:  GoCD, Jenkins, Rundeck, automated testing, continuous integration, trunk-based development, Git.
+- **Application development**: Java, Python, Golang, Javascript, Ruby, HTML5, CSS.
+- **Data**: MySQL, PostgreSQL, MongoDB, elasticsearch. 
+- **eXtreme Programming**: TDD, pair/mob-programming, lean product development, user research.  
+- **Leadership**: conflict transformation, onboarding psychology, community building, effective feedback, active listening, non-violent communication, mediation, facilitation, change enablement.
 
-####[Deloitte Digital, London](http://www.deloittedigital.com/eu/)
-**Java Developer, Nov 2014 - Present**
+### EMPLOYMENT
 
-_Technical Building_
-* Built RESTful microservices, contributed to the implementation of Rundeck and Ansible scripts, and advocated for best practices on project. Introduced and applied a more robust way of testing project code by delving into Mockito, JUnit, and TDD strategies.
-* Pursued ownership of project deliverable from design to implementation, collaborating with senior developers and client Solution Design team.
-* Contributed to the development of RESTful web microservices on a large Java enterprise project which implemented ELK stack.
-* Utilised Agile practices (Scrum and Kanban) as well as upskilling colleagues to improve use of TDD methods and pair-programming through regular lunch and learns.
+#### [Unruly](https://unruly.co/), London — Software Developer, AUG 2016 - PRESENT
+**Reliability Engineering**
+- Co-created open source PDK project to provide base configuration, improve code quality, and de-couple configuration from data.
+- Improved Puppet upgrade process by developing a smoke-test Docker environment which reduced development feedback time by 30 minutes.
+- Developed a lean, incremental technique to building configuration management for upgrading operating systems. The team adopted this as the default approach for all future upgrades.
+- Integrated application testing methodology to configuration management, driving TDD approaches to bash and Python scripts using BATS and Pytest.
+- Maintained, configured, and optimised GoCD Terraform pipelines. Extracted service-specific pipelines to help unblock teams relying on region-specific pipelines. 
+- Improved metric aggregation by incrementally re-architecting Graphite system. Introduced a network load balancer and Carbon-C Relay to handle increased load and enable horizontal scaling.
+- Facilitated Puppet version upgrades, core operating system upgrade, and optimisation of AWS shared infrastructure (IAM policies and roles, credential management, VPCs, and security groups).
+- Automated developer exit process, reducing critical process time from one day to 30 minutes.
+- Increased shared infrastructure documentation from 37% to 100%. 
 
-_Community Building_
-* Mentor incoming junior developers and encourage the use of best practices tools.
-* Support the internal network of Makers alumni at Deloitte Digital; started a monthly Makers meet-up group to discuss code, best practices, and practice development opportunities.
-* Participate in internal Infrastructure and Environments study group as well as our Code as Craft group.
-* Created group to promote and support the firm's learning and development program. Schedule and lead internal meetings and co-wrote the budget proposal.
-* Started a weekly Java dojo study group to complete katas, discuss Java coding concepts, and share knowledge.
-* Received Deloitte Digital's Limelight Award twice for dedication to community building.
+**Application Development**
+- Contributed to open source Java Config Fallback library, enabling developers to query a hierarchy of configuration sources including cloud-based credential management tools.
+- Maintained and extended functionality of a core legacy codebase. 
+- Refactored Java 6 code to Java 8 with an emphasis on a functional programming.
+- Contributed to the adoption and integration of Auth0 with a Java/Spring application.
+
+**Leadership**
+- Led knowledge sharing strand to improve developer understanding of infrastructure through documentation, one-to-one tutorials, and tech talks.
+- Taught conflict transformation, implemented conflict resolution techniques, mediated conflicts, and conducted sessions on effective feedback tools.
+- Co-organised eXtreme Programmers London meet-up. 
+- Co-founded Diversity and Inclusivity working group.
+
+#### [Deloitte Digital](https://www.deloittedigital.co.uk/), London — Software Developer, OCT  2014 - AUG 2016
+**Pensions Web App** 
+- Built RESTful microservices and contributed to Jenkins and Rundeck maintenance. 
+- Applied a more robust way of testing by implementing Mockito’s ArgumentCaptor. 
+Conducted TDD workshops and taught graduate developers TDD concepts and approaches.
+
+**Digital Banking App** 
+- Contributed to the development of RESTful web microservices on a Java enterprise project. 
+- Owned a project deliverable, collaborating with senior developers and client Solution Design team to create CSR response functionality.
+
+**Leadership**
+- Deloitte Digital Limelight Award winner for community building.
+- Founded Learning and Development committee to organise, structure, and support engineering learning pathways. Facilitated meetings and co-wrote budget proposal.
+- Mentored junior developers, providing career guidance and professional support.
+
+#### [Decoded](https://decoded.com/), London — Junior Web Developer, MAY 2014 - SEP 2014
+- Built knowledge sharing prototype in BackboneJS to share articles internally and with clients. 
+- Developed training structure for junior developers and mentored team interns.
+
+#### [Makers Academy](https://makers.tech/), London — Trainee Web Developer, FEB 2014 - MAY 2014
+- Learned full stack web development grounded in Ruby, Javascript, and eXtreme Programming.
+- Created a web application that supported real time communication between students and teachers, increasing the feedback loop for challenging material.
 
 
-####[Decoded, London](http://www.decoded.co/)
-**Traineeship, Jun 2014 - Sep 2014**
-* Collaborated with close-knit development team on test-driven internal and client-facing Javascript applications.
-* Built knowledge-sharing prototype tool using BackboneJS to help colleagues share relevant articles internally and externally.
-* Developed training structure for junior developers and mentored development team interns.
+### PROJECTS + AWARDS
 
-####[Makers Academy, London](http://www.makersacademy.com)
-**Student, Feb 2014 - May 2014**
-* A highly selective, 12 week intensive course that focuses on full stack web development grounded in Ruby and Javascript.
-* Emphasises test-driven, object-oriented, software design and development.
-* Uses Agile principles and methodology, TDD, pair programming, and team projects to teach industry best practices.
+**Meeting Tracker — App**
+- Python app to track metadata on how teams spend collaboration energy.
 
-#### Skills
-* __Languages, Frameworks__: Ruby 2, Ruby on Rails, Javascript, LiveScript, BackboneJS, NodeJS, AngularJS, jQuery, Ajax, CSS3 & Sass, HTML5 & ERB, Java 8, XML/XSL/XSLT, Groovy, Spring, Apache ActiveMQ Vertx, learning Scala
-* __Build Tools__: Grunt, Rundeck, Jenkins, Ansible
-* __Database__: Postgres SQL, Datamapper, MongoDb, Elasticsearch
-* __Testing__: Rspec, Jasmine, Capybara, Factory Girl, JUnit, Mockito, ScalaTest
-* __Web__: Websockets, Version control with GitHub, User authentication (Devise, Omniauth), Heroku, Bootstrap, API integration (Twilio, Stripe, Paperclip)
+**sarahseewhy.github.io — Blog**
+- Personal blog built using Jekyll, HTML5, and CSS.
 
-#### Media and Community Engagement
-* [@sarahseewhy](https://twitter.com/sarahseewhy)
-* [sarahseewhy blog](https://sarahseewhy.wordpress.com)
-* London Java Community, London Software Craftsmanship Community
+**Women in Software Power List 2019 — Shortlisted**
 
-### Education
-------------
+### EDUCATION
+
 |       Dates       |        Institution         |            Subjects                   |
 | :---------------: | :------------------------: | :-----------------------------------: |
-| Oct 11 - Oct 12   | University of Manchester   | MA (Dist.) Modern British History     |
-| Oct 10 - Jun 11   | University of Oxford       | MA (Dist.) Gender Studies             |
-| Aug 04 - May 08   | Scripps College            | BA (Hons.) History                    |
-
-##### Conferences & Awards
-- Volunteering at 2016 Devoxx conference.
-- Presented paper at the British Society for the History of Science postgraduate conference, Jan 2013.
-- Presented paper at the Voluntary Action Historical Society postgraduate conference, Feb 2012.
+| 2011 - 2012       | University of Manchester   | MA (Dist.) Modern British History     |
+| 2010 - 2011       | University of Oxford       | MA (Dist.) Women's Studies            |
+| 2004 - 2008       | Scripps College            | BA (Hons.) History                    |
