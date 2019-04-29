@@ -70,7 +70,7 @@ Conducted TDD workshops and taught graduate developers TDD concepts and approach
 **Meeting Tracker — App**
 - Python app to track metadata on how teams spend collaboration energy.
 
-**sarahseewhy.github.io — Blog**
+[**sarahseewhy.github.io**](https://sarahseewhy.github.io/) — **Blog**
 - Personal blog built using Jekyll, HTML5, and CSS.
 
 **Women in Software Power List 2019 — Shortlisted**
