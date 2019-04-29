@@ -17,7 +17,7 @@ _I thrive in collaborative environments working with colleagues who share my tec
 
 ### EMPLOYMENT
 
-#### [Unruly](https://unruly.co/), London — Software Developer, AUG 2016 - PRESENT
+### [Unruly](https://unruly.co/), London — Software Developer, AUG 2016 - PRESENT
 **Reliability Engineering**
 - Co-created open source PDK project to provide base configuration, improve code quality, and de-couple configuration from data.
 - Improved Puppet upgrade process by developing a smoke-test Docker environment which reduced development feedback time by 30 minutes.
@@ -41,7 +41,7 @@ _I thrive in collaborative environments working with colleagues who share my tec
 - Co-organised eXtreme Programmers London meet-up. 
 - Co-founded Diversity and Inclusivity working group.
 
-#### [Deloitte Digital](https://www.deloittedigital.co.uk/), London — Software Developer, OCT  2014 - AUG 2016
+### [Deloitte Digital](https://www.deloittedigital.co.uk/), London — Software Developer, OCT  2014 - AUG 2016
 **Pensions Web App** 
 - Built RESTful microservices and contributed to Jenkins and Rundeck maintenance. 
 - Applied a more robust way of testing by implementing Mockito’s ArgumentCaptor. 
@@ -56,11 +56,11 @@ Conducted TDD workshops and taught graduate developers TDD concepts and approach
 - Founded Learning and Development committee to organise, structure, and support engineering learning pathways. Facilitated meetings and co-wrote budget proposal.
 - Mentored junior developers, providing career guidance and professional support.
 
-#### [Decoded](https://decoded.com/), London — Junior Web Developer, MAY 2014 - SEP 2014
+### [Decoded](https://decoded.com/), London — Junior Web Developer, MAY 2014 - SEP 2014
 - Built knowledge sharing prototype in BackboneJS to share articles internally and with clients. 
 - Developed training structure for junior developers and mentored team interns.
 
-#### [Makers Academy](https://makers.tech/), London — Trainee Web Developer, FEB 2014 - MAY 2014
+### [Makers Academy](https://makers.tech/), London — Trainee Web Developer, FEB 2014 - MAY 2014
 - Learned full stack web development grounded in Ruby, Javascript, and eXtreme Programming.
 - Created a web application that supported real time communication between students and teachers, increasing the feedback loop for challenging material.
 
