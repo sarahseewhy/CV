@@ -1,2 +1,3 @@
 # Files to exclude
 .DS_Store
+.idea/
